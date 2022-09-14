@@ -1,0 +1,1 @@
+<img width="160" src="./dog.jpg" alt="logo">
