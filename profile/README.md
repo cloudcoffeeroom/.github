@@ -9,4 +9,4 @@
  - 支持内核分离方案，轻松二次开发。
 
 
-[开始查阅](/README.md)
+[开始查阅](https://sparkbridge.cn)
